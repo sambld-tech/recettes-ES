@@ -1,0 +1,25 @@
+{
+  "devDependencies": {
+    "prettier": "2.7.0"
+  },
+  "name": "recettes-es",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "clean-html": "npx prettier -write '*.html'",
+    "prettier": "npx prettier --write ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambld-tech/recettes-ES.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambld-tech/recettes-ES/issues"
+  },
+  "homepage": "https://github.com/sambld-tech/recettes-ES#readme"
+}
